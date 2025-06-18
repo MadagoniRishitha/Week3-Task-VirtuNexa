@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Career-Suggester
 
 _Last updated: 2025-06-18_
@@ -35,3 +36,7 @@ MIT License
 ---
 
 _This README file was automatically generated._
+=======
+# Week3-Task-VirtuNexa
+VirtuNexa - WEB DEVELOPMENT INTERNSHIP (WEEK - 3 TASK)
+>>>>>>> b8eda7a6677076357bc4b73e89699c174fccafdb
